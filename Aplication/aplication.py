@@ -15,7 +15,7 @@ def Tabela():
 tab1, tab2 = st.tabs(["📊 Aplicação", "📥 Baixar dados"])
 
 with tab1:
-    st.title("Aplicação :chart_with_upwards_trend:")
+    st.title("Aplicaçãos :chart_with_upwards_trend:")
     enable = st.checkbox("Enable camera")
     picture = st.camera_input("Take a picture", disabled=not enable)
 
