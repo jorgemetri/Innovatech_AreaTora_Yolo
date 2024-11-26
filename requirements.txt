@@ -1,4 +1,7 @@
 streamlit
-streamlit-extras
 pandas
-openpyxl
+numpy
+altair
+streamlit-extras
+opencv-python
+ultralytics
